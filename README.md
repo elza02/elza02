@@ -42,11 +42,16 @@ Here are a few projects I’m proud of:
   - Developed a Conditional GAN (cGAN) to generate MNIST digits conditioned on class labels (0-9).
   -  Designed and implemented the generator and discriminator architectures for conditional image generation.
   - Trained the cGAN using labeled MNIST dataset, achieving high-quality, controlled digit generation.
-## 📬 Let’s Connect!
-
-- **LinkedIn**: [LINK](https://www.linkedin.com/in/elza02/)
-<!-- - **Medium**: [Your Medium Profile](https://medium.com/@yourusername)-->
-- **Email**: [LINK](zakaria.elalaoui742@gmail.com)
+## 📬 Where to find me!
+<h3></h3>
+<p><a href="https://github.com/elza02/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="https://www.linkedin.com/in/elza02/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="zakaria.elalaoui742@gmail.com" target="_blank">
+   <img alt="Email" src="https://img.shields.io/badge/Email-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p></p>
+<!--- **LinkedIn**: [LINK](https://www.linkedin.com/in/elza02/)
+ - **Medium**: [Your Medium Profile](https://medium.com/@yourusername)
+- **Email**: [LINK](zakaria.elalaoui742@gmail.com)-->
 
 Feel free to reach out if you have any questions or just want to chat about **data science**, **AI**, or **design**!
 
@@ -55,11 +60,12 @@ Feel free to reach out if you have any questions or just want to chat about **da
 - 🇲🇦 Proudly Moroccan and a fan of Moroccan tea ☕️
 - 🎨 When I'm not coding, you can find me sketching or creating digital art.
 - 🌍 Passionate about learning new languages and cultures.
-
-## 📊 GitHub Stats
 <!--
+## 📊 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 -->
+
 ### Thanks for stopping by, and happy coding! 😊
