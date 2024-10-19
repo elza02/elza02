@@ -26,18 +26,18 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
 
 Here are a few projects I’m proud of:
 
-- **[Loan Risk Analysis & Prediction](https://github.com/yourusername/market-risk-analysis)**  
+- **[Loan Risk Analysis & Prediction](https://github.com/elza02/-Loan-Risk-Analysis-Prediction)**  
   📈 *Description*:
     - Data Analysis & Feature Engineering: Cleaned and analyzed a loan dataset with 20 features, uncovering key trends
  in borrower behavior, which boosted model accuracy from 60% to 74%.
     - Risk Prediction Model: Prepared data for an XGBoost model to predict loan risk (good/bad) with a focus on
  effective feature engineering.
-- **[FaceTrack - Real-Time Facial Recognition](https://github.com/elza02/FaceTrack---Real-Time-Surveillance-Data-Processing-System..git)**  
+- **[FaceTrack - Real-Time Facial Recognition](https://github.com/elza02/FaceTrack---Real-Time-Surveillance-Data-Processing-System)**  
   🚀 *Description*:
   - Developed a real-time surveillance data processing system based on facial recognition using Apache Spark and the
  Kafka framework. The primary objective is to collect traffic data from a real-time facial recognition API,
  continuously analyze it, and provide real-time information on identified individuals.
-- **[CGAN for MNIST Generation](https://github.com/yourusername/CGAN-MNIST)**  
+- **[CGAN for MNIST Generation](https://github.com/elza02/MNIST_generation_using_CGANs)**  
   📝 *Description*:
   - Developed a Conditional GAN (cGAN) to generate MNIST digits conditioned on class labels (0-9).
   -  Designed and implemented the generator and discriminator architectures for conditional image generation.
