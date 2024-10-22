@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
 <!--- 🔍 I’m currently exploring **Generative AI** and working on cool projects like **Market Risk Analysis** and **real-time facial recognition systems**.-->
 - 🎓 I’m a **Master’s student in Data Science** and have a passion for applying my skills to solve real-world problems.
 - 🌍 Proudly Moroccan 🇲🇦, but virtually everywhere thanks to my Wi-Fi.
-- 🧠 I believe in continuous learning and enjoy sharing my knowledge through **blog posts** on platforms like **Medium** and **LinkedIn**.
+- 🧠 I believe in continuous learning. <!--and enjoy sharing my knowledge through **blog posts** on platforms like **Medium** and **LinkedIn**.-->
 <!--
 ## 💡 What I’m Up To
 
