@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthusiast**, and a **Graphic Designer** with over 2 years of experience. I love turning data into actionable insights and creating models that make the impossible possible!
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p>As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions:</p>
+<p>As a data scientist and machine learning enthusiast, I have honed my skills in various programming languages that are essential for my work. Each language plays a crucial role in my toolkit, allowing me to tackle complex data challenges and develop innovative solutions. Here are the languages I utilize to transform intricate problems into actionable insights:</p>
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
