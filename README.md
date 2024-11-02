@@ -36,7 +36,16 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
     <p>Here are a few projects I’m proud of:</p>
     <ul>
         <li>
-            <strong><a href="https://github.com/elza02/-Loan-Risk-Analysis-Prediction">Loan Risk Analysis & Prediction</a></strong>  
+            <strong><a href="https://github.com/elza02/-Loan-Risk-Analysis-Prediction">PDFQuest | Retrieval-Augmented Generation (RAG) system for generating responses based on PDF content</a></strong>  
+            📈 <em>Description:</em>
+            <ul>
+                <li>Employed Langchain for tokenization and sentence-transformers/all-MiniLM-L6-v2 (Hugging Face) for embedding.</li>
+                <li>Implemented FAISS for efficient storage and retrieval of similar text chunks.</li>
+                <li>Integrated LLaMA 3 (70B) with GROQ API to generate accurate and context-aware responses.</li>
+            </ul>
+        </li>
+        <li>
+            <strong><a href="https://github.com/elza02/PDFQuest">Loan Risk Analysis & Prediction</a></strong>  
             📈 <em>Description:</em>
             <ul>
                 <li>Data Analysis & Feature Engineering: Cleaned and analyzed a loan dataset with 20 features, uncovering key trends in borrower behavior, which boosted model accuracy from 60% to 74%.</li>
