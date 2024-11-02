@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
     <ul>
         <li>
             <strong><a href="https://github.com/elza02/PDFQuest">PDFQuest | Retrieval-Augmented Generation (RAG) system for generating responses based on PDF content</a></strong>  
-            📈 <em>Description:</em>
+            📚 <em>Description:</em>
             <ul>
                 <li>Employed Langchain for tokenization and sentence-transformers/all-MiniLM-L6-v2 (Hugging Face) for embedding.</li>
                 <li>Implemented FAISS for efficient storage and retrieval of similar text chunks.</li>
