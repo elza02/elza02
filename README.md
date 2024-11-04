@@ -70,7 +70,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
         </li>
     </ul>
 </div>
+<div align="center">
+<h2 align="center" class="section-heading">📊 GitHub Stats</h2>
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elza02&show_icons=true&theme=radical)
+</div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas. Let's innovate together! </p>
@@ -99,10 +103,7 @@ Feel free to reach out if you have any questions or just want to chat about **da
 - 🇲🇦 Proudly Moroccan and a fan of Moroccan tea ☕️
 - 🎨 When I'm not coding, you can find me sketching or creating digital art.
 - 🌍 Passionate about learning new languages and cultures.
-
-## 📊 GitHub Stats
 -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elza02&show_icons=true&theme=radical)
 
 ---
 
