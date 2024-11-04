@@ -101,10 +101,10 @@ Feel free to reach out if you have any questions or just want to chat about **da
 - 🌍 Passionate about learning new languages and cultures.
 
 ## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+-->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elza02&show_icons=true&theme=radical)
 
 ---
--->
+
 
 ### Thanks for stopping by, and happy coding! 😊
