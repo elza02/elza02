@@ -72,9 +72,19 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">📊 GitHub Stats</h2>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elza02&show_icons=true&theme=radical)
-</div>
+        <br>
+        <div>
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=elza02&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ab-talbi" width="550" />
+        </div>
+        <br>
+        <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=elza02&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
+        <div>
+        <br>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elza02&langs_count=8&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
+        <div>
+        <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas. Let's innovate together! </p>
