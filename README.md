@@ -77,10 +77,10 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=elza02&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ab-talbi" width="550" />
         </div>
         <br>
-        <div>
+       <!-- <div>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=elza02&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
         <div>
-        <br>
+        <br>-->
         <div>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elza02&langs_count=8&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
