@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
             </ul>
         </li>
         <li>
-            <strong><a href="https://github.com/elza02/TravelMor">TravelMor</a></strong>  
+            <strong><a href="https://github.com/elza02/TravelMor">TravelMor | Travel agency web app</a></strong>  
             📝 <em>Description:</em>
             <ul>
                 <li>Developed a web application for managing an organized travel agency.</li>
