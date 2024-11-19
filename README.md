@@ -60,12 +60,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
             </ul>
         </li>
         <li>
-            <strong><a href="https://github.com/elza02/MNIST_generation_using_CGANs">CGAN for MNIST Generation</a></strong>  
+            <strong><a href="https://github.com/elza02/TravelMor">TravelMor</a></strong>  
             📝 <em>Description:</em>
             <ul>
-                <li>Developed a Conditional GAN (cGAN) to generate MNIST digits conditioned on class labels (0-9).</li>
-                <li>Designed and implemented the generator and discriminator architectures for conditional image generation.</li>
-                <li>Trained the cGAN using labeled MNIST dataset, achieving high-quality, controlled digit generation.</li>
+                <li>Developed a web application for managing an organized travel agency.</li>
+                <li>Implemented a search feature with filtering options and Integrate Stripe for secure online payments.</li>
             </ul>
         </li>
     </ul>
