@@ -36,6 +36,13 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
     <p>Here are a few projects I’m proud of:</p>
     <ul>
         <li>
+            <strong><a href="https://github.com/elza02/Automated-Assessment-of-Answer-Relevance-in-Question-Answering-Systems-A-Machine-Learning-Approach">Relevance of Retrieval | Automated Assessment of Answer Relevance in QA Systems</a></strong>  
+            📚 <em>Description:</em>
+            <ul>
+                <li>The project focuses on scoring the relevance of answers to French-language queries using a hierarchical architecture based on the pre-trained CamemBERT model. The solution leverages a combination of dimensional reduction, dropout regularization, and layer normalization to produce relevance scores on a scale from 0 to 1.</li>
+            </ul>
+        </li>
+        <li>
             <strong><a href="https://github.com/elza02/PDFQuest">PDFQuest | Retrieval-Augmented Generation (RAG) system for generating responses based on PDF content</a></strong>  
             📚 <em>Description:</em>
             <ul>
