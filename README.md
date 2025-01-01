@@ -66,14 +66,14 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
                 <li>Developed a real-time surveillance data processing system based on facial recognition using Apache Spark and the Kafka framework. The primary objective is to collect traffic data from a real-time facial recognition API, continuously analyze it, and provide real-time information on identified individuals.</li>
             </ul>
         </li>
-        <li>
+<!--         <li>
             <strong><a href="https://github.com/elza02/TravelMor">TravelMor | Travel agency web app</a></strong>  
             📝 <em>Description:</em>
             <ul>
                 <li>Developed a web application for managing an organized travel agency.</li>
                 <li>Implemented a search feature with filtering options and Integrate Stripe for secure online payments.</li>
             </ul>
-        </li>
+        </li> -->
     </ul>
 </div>
 <div align="center">
