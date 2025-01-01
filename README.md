@@ -52,11 +52,11 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
             </ul>
         </li>
         <li>
-            <strong><a href="https://github.com/elza02/-Loan-Risk-Analysis-Prediction">Loan Risk Analysis & Prediction</a></strong>  
+            <strong><a href="https://github.com/elza02/MatchVision">MatchVision | Football Analytics System</a></strong>  
             📈 <em>Description:</em>
             <ul>
-                <li>Data Analysis & Feature Engineering: Cleaned and analyzed a loan dataset with 20 features, uncovering key trends in borrower behavior, which boosted model accuracy from 60% to 74%.</li>
-                <li>Risk Prediction Model: Prepared data for an XGBoost model to predict loan risk (good/bad) with a focus on effective feature engineering.</li>
+                <li>Real-Time Football Analytics: A platform for analyzing matches, players, and teams with live updates and insights.</li>
+                <li>Big Data Pipeline: Utilizes Kafka, Spark, MongoDB, and React for seamless data processing and visualization.</li>
             </ul>
         </li>
         <li>
