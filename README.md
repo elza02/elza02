@@ -59,13 +59,13 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
                 <li>Big Data Pipeline: Utilizes Kafka, Spark, MongoDB, and React for seamless data processing and visualization.</li>
             </ul>
         </li>
-        <li>
+<!--         <li>
             <strong><a href="https://github.com/elza02/FaceTrack---Real-Time-Surveillance-Data-Processing-System">FaceTrack - Real-Time Facial Recognition</a></strong>  
             🚀 <em>Description:</em>
             <ul>
                 <li>Developed a real-time surveillance data processing system based on facial recognition using Apache Spark and the Kafka framework. The primary objective is to collect traffic data from a real-time facial recognition API, continuously analyze it, and provide real-time information on identified individuals.</li>
             </ul>
-        </li>
+        </li> -->
 <!--         <li>
             <strong><a href="https://github.com/elza02/TravelMor">TravelMor | Travel agency web app</a></strong>  
             📝 <em>Description:</em>
