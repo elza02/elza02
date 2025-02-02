@@ -82,12 +82,7 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
     <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=elza02&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-        <br>
-        <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elza02&langs_count=8&count_private=true&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
-        <div>
-        <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</div>
+</div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas. Let's innovate together! </p>
@@ -97,28 +92,5 @@ Welcome to my GitHub profile! I'm a **Data Scientist**, **Machine Learning Enthu
   </a>
 </p>
 </div>
-<!---
-## 📬 Where to find me!
-<h3></h3>
-<p><a href="https://github.com/elza02/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></a> <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:zakaria.elalaoui742@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p></p>
- **LinkedIn**: [LINK](https://www.linkedin.com/in/elza02/)
- - **Medium**: [Your Medium Profile](https://medium.com/@yourusername)
-- **Email**: [LINK](zakaria.elalaoui742@gmail.com)-->
-
-Feel free to reach out if you have any questions or just want to chat about **data science**, **AI**, or **design**!
-
-<!--## 🤓 Fun Facts
-
-- 🇲🇦 Proudly Moroccan and a fan of Moroccan tea ☕️
-- 🎨 When I'm not coding, you can find me sketching or creating digital art.
-- 🌍 Passionate about learning new languages and cultures.
--->
-
----
-
 
 ### Thanks for stopping by, and happy coding! 😊
